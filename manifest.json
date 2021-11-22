@@ -1,0 +1,19 @@
+{
+	   "format_version":2,
+	   "header":{
+		  "name":"TARDIS Sounds Bedrock Edition",
+		  "description":"TARDIS plugin sound resource pack",
+		  "uuid":"b379beda-480d-11ec-81d3-0242ac130003",
+		  "version":[ 0, 0, 2 ],
+		  "min_engine_version":[ 1, 13, 0 ]
+	   },
+	   "modules":[
+		  {
+			 "description":"TARDIS plugin sound resource pack",
+			 "type":"resources",
+			 "uuid":"c1cadfb4-480d-11ec-81d3-0242ac130003",
+			 "version":[ 0, 0, 2 ]
+		  }
+	   ]
+	}
+	

@@ -1,0 +1,671 @@
+{
+   "format_version":"1.14.0",
+   "sound_definitions":{
+      "tardis_takeoff":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_takeoff"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "tardis_takeoff_fast":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_takeoff_fast"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "tardis_takeoff_faster":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_takeoff_faster"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "tardis_takeoff_rapid":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_takeoff_rapid"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "tardis_takeoff_warp":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_takeoff_warp"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "tardis_land":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_land"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_land_fast":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_land_fast"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_land_faster":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_land_faster"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_land_rapid":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_land_rapid"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_land_warp":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_land_warp"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_emergency_land":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_emergency_land"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "tardis_lock":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_remote"
+         ],
+         "subtitle":"Remote chirps"
+      },
+      "tardis_hide":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_hide"
+         ],
+         "subtitle":"TARDIS hides"
+      },
+      "tardis_rebuild":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_rebuild"
+         ],
+         "subtitle":"TARDIS rebuilds"
+      },
+      "tardis_hum":{
+         "category":"ambient",
+         "sounds":[
+            "sounds/tardis/tardis_hum_coral",
+            "sounds/tardis/tardis_hum_copper",
+            "sounds/tardis/tardis_hum_computer",
+            "sounds/tardis/tardis_hum_sleeping",
+            "sounds/tardis/tardis_hum_galaxy",
+            "sounds/tardis/tardis_hum_mind",
+            "sounds/tardis/tardis_hum_void",
+            "sounds/tardis/tardis_hum_alien",
+            "sounds/tardis/tardis_hum_atmosphere",
+            "sounds/tardis/tardis_hum_learning",
+            "sounds/tardis/tardis_hum_neon"
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_coral":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_1",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_copper":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_2",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_computer":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_3",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_sleeping":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_4",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_galaxy":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_5",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_mind":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_6",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_void":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_7",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_alien":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_8",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_atmosphere":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_9",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_learning":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_10",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "tardis_hum_neon":{
+         "category":"ambient",
+         "sounds":[
+            {
+               "name":"sounds/tardis/tardis_hum_11",
+               "stream":true
+            }
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "sonic_screwdriver":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/sonic_screwdriver"
+         ],
+         "subtitle":"Screwdriver whirrs"
+      },
+      "sonic_medium":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/sonic_screwdriver_medium"
+         ],
+         "subtitle":"Screwdriver whirrs"
+      },
+      "sonic_short":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/sonic_screwdriver_short"
+         ],
+         "subtitle":"Screwdriver whirrs"
+      },
+      "police_box_open":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/police_box_open"
+         ],
+         "subtitle":"Door creaks"
+      },
+      "police_box_close":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/police_box_close"
+         ],
+         "subtitle":"Door closes"
+      },
+      "tardis_door_open":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_door_open"
+         ],
+         "subtitle":"Door opens"
+      },
+      "tardis_door_close":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_door_close"
+         ],
+         "subtitle":"Door closes"
+      },
+      "tardis_handbrake_engage":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_handbrake_engage"
+         ],
+         "subtitle":"Handbrake engages"
+      },
+      "tardis_handbrake_release":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_handbrake_release"
+         ],
+         "subtitle":"Handbrake releases"
+      },
+      "tardis_cloister_bell":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_cloister_bell"
+         ],
+         "subtitle":"Cloister bell tolls"
+      },
+      "cloister_bell":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/cloister_bell"
+         ],
+         "subtitle":"Cloister bell tolls"
+      },
+      "tardis_scanner":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_scanner"
+         ],
+         "subtitle":"Scanner blips"
+      },
+      "tardis_malfunction":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_malfunction"
+         ],
+         "subtitle":"Engines stall"
+      },
+      "tardis_malfunction_takeoff":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_malfunction_takeoff"
+         ],
+         "subtitle":"Engines stall"
+      },
+      "tardis_enter":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/tardis_enter"
+         ]
+      },
+      "lazarus_machine":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/lazarus_machine"
+         ],
+         "subtitle":"Machine whirrs"
+      },
+      "interior_flight":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/interior_flight"
+         ],
+         "subtitle":"TARDIS hums"
+      },
+      "time_rotor":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/time_rotor"
+         ],
+         "subtitle":"TARDIS vworps"
+      },
+      "power_up":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/power_up"
+         ],
+         "subtitle":"TARDIS powers up"
+      },
+      "power_down":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/power_down"
+         ],
+         "subtitle":"TARDIS powers down"
+      },
+      "artron_furnace":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/artron_furnace"
+         ],
+         "subtitle":"Artron furnace crackles"
+      },
+      "junk_takeoff":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/junk_takeoff"
+         ],
+         "subtitle":"TARDIS takes off"
+      },
+      "junk_land":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/junk_land"
+         ],
+         "subtitle":"TARDIS lands"
+      },
+      "junk_arc":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/junk_arc"
+         ],
+         "subtitle":"Energy crackles"
+      },
+      "empty_child":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/empty_child_mummy",
+            "sounds/tardis/empty_child_scared"
+         ],
+         "subtitle":"Empty Child speaks"
+      },
+      "cyberman":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/cyberman_become",
+            "sounds/tardis/cyberman_citizen",
+            "sounds/tardis/cyberman_deleted"
+         ],
+         "subtitle":"Cyberman speaks"
+      },
+      "dalek":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/dalek_beginning",
+            "sounds/tardis/dalek_destroy",
+            "sounds/tardis/dalek_doctor",
+            "sounds/tardis/dalek_exterminate",
+            "sounds/tardis/dalek_no_more",
+            "sounds/tardis/dalek_stay",
+            "sounds/tardis/dalek_doctor_must_die"
+         ],
+         "subtitle":"Dalek shouts"
+      },
+      "dalek_hit":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/dalek_hit"
+         ],
+         "subtitle":"Metal clangs"
+      },
+      "hath":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/hath"
+         ],
+         "subtitle":"Hath bubbles"
+      },
+      "silence":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/silence",
+            "sounds/tardis/silent_rattle"
+         ],
+         "subtitle":"Silent rasps"
+      },
+      "sontaran":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/sontaran_too_easy",
+            "sounds/tardis/sontaran_sontar_ha",
+            "sounds/tardis/sontaran_stahl"
+         ],
+         "subtitle":"Sontaran shouts"
+      },
+      "strax":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/strax_apathy_1",
+            "sounds/tardis/strax_apathy_2",
+            "sounds/tardis/strax_discuss"
+         ],
+         "subtitle":"Strax complains"
+      },
+      "milk":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/strax_lactic"
+         ],
+         "subtitle":"Strax speaks"
+      },
+      "vashta":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/vashta_nerada_lights"
+         ],
+         "subtitle":"Hey, who turned out the lights?"
+      },
+      "blink":{
+         "category":"voice",
+         "sounds":[
+            "sounds/tardis/blink"
+         ],
+         "subtitle":"Don't blink!"
+      },
+      "k9":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/k9_affirmative",
+            "sounds/tardis/k9_available_data",
+            "sounds/tardis/k9_danger",
+            "sounds/tardis/k9_designation",
+            "sounds/tardis/k9_efficient",
+            "sounds/tardis/k9_i_am",
+            "sounds/tardis/k9_insufficient",
+            "sounds/tardis/k9_mistress",
+            "sounds/tardis/k9_negative",
+            "sounds/tardis/k9_print_out",
+            "sounds/tardis/k9_quicker",
+            "sounds/tardis/k9_the_doctor"
+         ],
+         "subtitle":"K9 speaks"
+      },
+      "ood":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/ood_circle",
+            "sounds/tardis/ood_feed",
+            "sounds/tardis/ood_humanity",
+            "sounds/tardis/ood_kindness",
+            "sounds/tardis/ood_the_beast_and_his_armies",
+            "sounds/tardis/ood_we_must_feed"
+         ],
+         "subtitle":"Ood speaks"
+      },
+      "silurian":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/silurian_cages",
+            "sounds/tardis/silurian_come_here",
+            "sounds/tardis/silurian_destroy",
+            "sounds/tardis/silurian_how",
+            "sounds/tardis/silurian_planet",
+            "sounds/tardis/silurian_reclaim",
+            "sounds/tardis/silurian_who"
+         ],
+         "subtitle":"Silurian shouts"
+      },
+      "judoon":{
+         "category":"neutral",
+         "sounds":[
+            "sounds/tardis/judoon_catalogued",
+            "sounds/tardis/judoon_execution",
+            "sounds/tardis/judoon_no_kro_blo"
+         ],
+         "subtitle":"Judoon shouts"
+      },
+      "judoon_fire":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/judoon_fire"
+         ],
+         "subtitle":"Laser fires"
+      },
+      "toclafane":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/toclafane"
+         ],
+         "subtitle":"Toclafane blades unsheath"
+      },
+      "warrior":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/ice_warrior_skaldak"
+         ],
+         "subtitle":"Ice Warrior speaks"
+      },
+      "zygon":{
+         "category":"hostile",
+         "sounds":[
+            "sounds/tardis/zygon_command",
+            "sounds/tardis/zygon_duplicates",
+            "sounds/tardis/zygon_snarl",
+            "sounds/tardis/zygon_traitors",
+            "sounds/tardis/zygon_truth"
+         ],
+         "subtitle":"Zygon snarls"
+      },
+      "handles":{
+         "category":"voice",
+         "sounds":[
+            "sounds/tardis/handles_affirmative",
+            "sounds/tardis/handles_attention",
+            "sounds/tardis/handles_comfort",
+            "sounds/tardis/handles_confirmed",
+            "sounds/tardis/handles_fault_1",
+            "sounds/tardis/handles_fault_2",
+            "sounds/tardis/handles_fault_3",
+            "sounds/tardis/handles_gallifrey",
+            "sounds/tardis/handles_official",
+            "sounds/tardis/handles_processing",
+            "sounds/tardis/handles_urgent"
+         ],
+         "subtitle":"Handles speaks"
+      },
+      "handles_reminder":{
+         "category":"voice",
+         "sounds":[
+            "sounds/tardis/handles_information",
+            "sounds/tardis/handles_reminder"
+         ],
+         "subtitle":"Handles informs"
+      },
+      "handles_scanner":{
+         "category":"voice",
+         "sounds":[
+            "sounds/tardis/handles_scanner"
+         ],
+         "subtitle":"Handles scans"
+      },
+      "handles_confirmed":{
+         "category":"voice",
+         "sounds":[
+            "sounds/tardis/handles_confirmed"
+         ],
+         "subtitle":"Handles confirms"
+      },
+      "tardis_force_field":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/force_field"
+         ],
+         "subtitle":"Force field whirrs"
+      },
+      "tardis_force_field_up":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/force_field_up"
+         ],
+         "subtitle":"Force field raises"
+      },
+      "tardis_force_field_down":{
+         "category":"master",
+         "sounds":[
+            "sounds/tardis/force_field_down"
+         ],
+         "subtitle":"Force field lowers"
+      },
+      "theme_63":{
+         "category":"music",
+         "sounds":[
+            {
+               "name":"sounds/tardis/theme_63",
+               "stream":true
+            }
+         ],
+         "subtitle":"Doctor Who Theme 1963-1969"
+      },
+      "theme_05":{
+         "category":"music",
+         "sounds":[
+            {
+               "name":"sounds/tardis/theme_05",
+               "stream":true
+            }
+         ],
+         "subtitle":"Doctor Who Theme 2005"
+      },
+      "theme_20":{
+         "category":"music",
+         "sounds":[
+            {
+               "name":"sounds/tardis/theme_20",
+               "stream":true
+            }
+         ],
+         "subtitle":"Doctor Who Theme 2020-?"
+      },
+      "theme":{
+         "category":"music",
+         "sounds":[
+               "sounds/tardis/theme_63",
+               "sounds/tardis/theme_05",
+               "sounds/tardis/theme_20"
+         ],
+         "subtitle":"Doctor Who Theme"
+      }
+   }
+}
